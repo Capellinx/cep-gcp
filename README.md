@@ -2,7 +2,7 @@
 
 Serviço em Go que recebe um CEP, descobre a cidade (ViaCEP) e retorna a temperatura atual (WeatherAPI) em Celsius, Fahrenheit e Kelvin.
 
-**URL em produção (Cloud Run):** `<PREENCHER APÓS O DEPLOY>`
+**URL em produção (Cloud Run):** https://cep-gcp-64770695016.southamerica-east1.run.app
 
 ## Uso
 
